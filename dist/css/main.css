@@ -71,6 +71,7 @@ a:hover {
     left: 0;
     z-index: 2;
     color: #fff;
+    font-family: 'Kaushan Script', cursive;
 }
 .profile-body {
     position: relative;
