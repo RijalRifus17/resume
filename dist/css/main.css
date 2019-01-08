@@ -1,0 +1,48 @@
+body {
+    background: #f6f6f6;
+    color: #444;
+    font-family: 'Noto Sans', sans-serif;
+}
+a {
+    color: #4dbd74;
+}
+a:hover {
+    color: #288045;
+}
+
+/* navbar */
+.navbar {
+    -webkit-box-shadow: 0 0 12px 0 #ccc;
+    box-shadow: 0 0 12px 0 #ccc;
+    height: 70px;
+}
+.navbar-brand .logo-full {
+    width: 185px;
+    /* height: 50px; */
+}
+.navbar-brand .logo-collapse {
+    width: 40px;
+    display: none;
+}
+
+/* content */
+#content-front {
+    width: 100%;
+    margin: 80px 0;
+    height: 100%;
+    position: absolute;
+}
+#content-front #content-wrapper {
+    position: relative;
+    
+}
+
+/* card */
+.card:hover {
+    border: 1px solid #4dbd74;
+}
+
+/*profil*/
+/* .profil-front {
+    position: fixed;
+} */
