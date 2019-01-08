@@ -28,13 +28,12 @@ a:hover {
 /* content */
 #content-front {
     width: 100%;
-    margin: 80px 0;
+    margin: 0;
     height: 100%;
     position: absolute;
 }
 #content-front #content-wrapper {
-    position: relative;
-    
+    margin: 80px 20px;
 }
 
 /* card */
@@ -44,5 +43,5 @@ a:hover {
 
 /*profil*/
 .profil-front {
-    position: fixed;
+    position: absolute;
 }
