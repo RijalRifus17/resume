@@ -42,6 +42,11 @@ a:hover {
 }
 
 /*profil*/
-.profil-front {
+/* .profile-front {
     position: absolute;
+} */
+.profile-photo {
+    width: 150px;
+    border: 1px solid #eee;
+    padding: 5px;
 }
